@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 陈章浩
+title: Zhanghao Chen
 
-# Name pronunciation (optional)
-name_pronunciation: Zhanghao Chen
+# # Name pronunciation (optional)
+# name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Chen
 last_name: Zhanghao
 
-# Status emoji
-status:
-  icon: ☕️
+# # Status emoji
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
