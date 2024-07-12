@@ -62,7 +62,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: Master in Statistics and Data Science
+  - area: Msc in Statistics and Data Science
     institution: SUSTech
     date_start: 2022-09-01
     # date_end: 2020-12-31
@@ -123,7 +123,9 @@ I am an incoming PhD student at IPE Thrust at HKUST(GZ), under the supervision o
 
 My research interests focus on data mining and analysis, machine learning, energy & environmental economics, and AI for science. At HKUST(GZ), I aim to further explore the intersection of AI and environmental science, particularly in the context of sustainable agriculture.
 
-In addition to my academic pursuits, I enjoy riding, tennis, and doing volunteer work. I believe that a balanced life is essential for sustained academic excellence, and I try to find time for my hobbies whenever possible. I am always open to communication and collaboration.
+In addition to my academic pursuits, I enjoy riding, tennis, and doing volunteer work. I believe that a balanced life is essential for sustained academic excellence. If you are interested in my work, please feel free to contact me.
+
+
 
 ### Research Interests
 - Data Mining and Analysis
