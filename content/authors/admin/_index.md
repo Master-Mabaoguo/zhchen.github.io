@@ -53,7 +53,7 @@ interests:
   - AI4Science
 
 education:
-  - area: PhD in Innovation, Policy and Entrepreneurship
+  - area: Ph.D in Innovation, Policy and Entrepreneurship
     institution: HKUST(GZ)
     date_start: 2024-09-01
     # date_end: 2020-12-31
@@ -62,7 +62,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: Msc in Statistics and Data Science
+  - area: M.S. in Statistics and Data Science
     institution: SUSTech
     date_start: 2022-09-01
     # date_end: 2020-12-31
@@ -73,7 +73,7 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc in Physics
+  - area: B.S. in Physics
     institution: SZU
     date_start: 2018-09-01
     # date_end: 2020-12-31
