@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhanghao Chen
+title: 陈章浩
 
 # # Name pronunciation (optional)
 # name_pronunciation: 
