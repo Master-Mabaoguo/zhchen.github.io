@@ -92,14 +92,14 @@ education:
 awards:
   - title: Outstanding Innovative Talent
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2018-11'
+    date: '2018-11-01'
     awarder: SZU
     icon: coursera
     # summary: |
     #   I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: Meritorious Winners 
     url: https://www.comap.com/
-    date: '2021-04'
+    date: '2021-04-01'
     awarder: COMAP Mathematical Contest in Modeling
     icon: edx
     # summary: |
