@@ -5,8 +5,8 @@
 
 # Appearance
 appearance:
-  mode: light
-  color: red
+  mode: system
+  color: emerald
 
 # SEO
 marketing:
@@ -59,8 +59,3 @@ features:
   privacy_pack:
     enable: false
 
-params:
-  custom_css: |
-    body {
-      background-color: red; /* 背景色设置为红色 */
-    }
