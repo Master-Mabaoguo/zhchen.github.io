@@ -58,3 +58,9 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+params:
+  custom_css: |
+    body {
+      background-color: red; /* 背景色设置为红色 */
+    }
