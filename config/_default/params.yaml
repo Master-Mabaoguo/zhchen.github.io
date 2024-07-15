@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: red
 
 # SEO
 marketing:
@@ -35,12 +35,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Zhanghao Chen"
+      text: "陈章浩"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {2024} Zhanghao Chen. This work is licensed under {CC BY-NC-SA (Attribution-NonCommercial-ShareAlike)}'
+    notice: '© 2024 Zhanghao Chen. This work is licensed under CC BY-NC-SA '
     license:
       enable: true
       allow_derivatives: false
