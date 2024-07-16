@@ -110,14 +110,14 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+      - name: Swimming 
         description: ''
         percent: 80
-        icon: camera
+        icon: fa-swimmer
+      - name: Weiqi
+        description: ''
+        percent: 80
+        icon: fa-chess
 
 # languages:
 #   - name: English
