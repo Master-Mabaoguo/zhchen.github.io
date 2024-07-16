@@ -1,6 +1,6 @@
 ---
-title: Teaching
-summary: My courses
+title: Blogs
+summary: My blog posts
 type: landing
 
 cascade:

@@ -41,7 +41,7 @@ sections:
 
         For my PhD's research, I am particularly interested in sustainable agriculture & energy and the application of data science in these fields.
         
-        Feel free to reach out to collaborate 😃
+        Welcome to reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
