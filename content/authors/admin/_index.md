@@ -85,6 +85,32 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
+
+ work:
+  - position: Assistant Big Data Engineer
+    company_name: Vivo
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-06-01
+    date_end: '2023-09-01'
+    summary: |2-
+      Responsibilities include:
+      - Conducted data analysis and mining in the advertising and gaming industry.
+      - Identified potential customers most likely to purchase products or recharge games.
+      - Developed machine learning models to ascertain the pivotal behaviors that impact user expenditure.
+  - position: Huawei Campus Ambassador of 2023
+    company_name: Huawei
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-03-01
+    date_end: 2024-03-01
+    summary: |
+      Responsibilities include:
+      - Completed promotion and implementation of Huawei CodeCraft software challenge at SUSTech.
+      - Organized a visit for students from SUSTech to Huawei Songshan Lake Base for learning and study purposes.
+      - Participate in Huawei's autumn recruitment work at SUSTech.
+    
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
