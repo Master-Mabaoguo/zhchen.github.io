@@ -84,9 +84,7 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
-
- work:
+work:
   - position: Assistant Big Data Engineer
     company_name: Vivo
     company_url: ''
