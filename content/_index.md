@@ -24,7 +24,7 @@ sections:
         color: red
         image:
           # Add your image background to `assets/media/`.
-          filename: pexels-brett-sayles-1431822.jpg
+          filename: pexels-kasuma-1785493.jpg
           filters:
             brightness: 1.0
           size: cover
