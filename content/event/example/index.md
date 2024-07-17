@@ -1,10 +1,10 @@
 ---
 title: Example Talk
-全国第二届统计与数据科学大会
+
 event: Hugo Blox Builder Conference
 event_url: https://jcsds2024.scimeeting.cn/cn/web/index/19820
 
-location: 云南昆明
+location: Hugo Blox Builder HQ
 address:
   street: 450 Serra Mall
   city: Stanford
@@ -42,8 +42,8 @@ image:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 # url_code: 'https://github.com'
-# url_pdf: ''
-url_slides: 'uploads/resume.pdf'
+url_pdf: ''
+# url_slides: 'https://slideshare.net'
 # url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
