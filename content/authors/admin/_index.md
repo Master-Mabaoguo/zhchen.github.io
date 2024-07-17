@@ -171,13 +171,14 @@ awards:
     url: https://www.comap.com/
     date: '2020-04-01'
     awarder: COMAP Mathematical Contest in Modeling
+    icon: edx
 
 
   - title: Meritorious Winners 
     url: https://www.comap.com/
     date: '2021-04-01'
     awarder: COMAP Mathematical Contest in Modeling
-    # icon: edx
+    icon: edx
     # summary: |
     #   Learned:
     #   - Synthesize your own blockchain solutions
