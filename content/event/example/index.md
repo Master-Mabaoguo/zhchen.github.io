@@ -33,9 +33,9 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+#   focal_point: Right
 
 #links:
 #  - icon: twitter
@@ -44,7 +44,7 @@ image:
 #    url: https://twitter.com/georgecushen
 # url_code: 'https://github.com'
 # url_pdf: /upload/resume.pdf
-url_slides: static/uploads/Time Synchronization for Large-Scale Mobile Optical Fiber Networks.pdf
+# url_slides: static/uploads/Time Synchronization for Large-Scale Mobile Optical Fiber Networks.pdf
 # url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
