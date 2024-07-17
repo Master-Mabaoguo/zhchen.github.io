@@ -21,7 +21,7 @@ sections:
     design:
       css_class: light
       background:
-        color: black
+        color: red
         image:
           # Add your image background to `assets/media/`.
           filename: pexels-brett-sayles-1431822.jpg
