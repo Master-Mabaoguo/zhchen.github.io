@@ -1,4 +1,11 @@
-### GPU 加速 AI 计算-英伟达的前世今生
+---
+title: GPU 加速 AI 计算-英伟达的前世今生
+summary: My first blog
+date: 2024-07-17
+
+
+
+
 
 - cpu 串行计算
 - gpu 并行计算
@@ -33,3 +40,4 @@
 
 ![image-20240430212459825](https://chenzhanghao.oss-cn-shenzhen.aliyuncs.com/image-20240430212459825.png)
 
+---
