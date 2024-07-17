@@ -43,7 +43,7 @@ image:
 #    url: https://twitter.com/georgecushen
 # url_code: 'https://github.com'
 # url_pdf: ''
-url_slides: uploads/resume.pdf
+url_slides: 'uploads/resume.pdf'
 # url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
