@@ -3,11 +3,11 @@ title: Time Synchronization for Large-Scale Mobile Optical Fiber Networks
 
 event: National 2nd Conference on Statistics and Data Science
 event_url: https://jcsds2024.scimeeting.cn/en/web/index/19820
-
-address:
-  city: Kunming
-  region: Yunnan Province
-  country: China
+location: Kunming, Yunnan Province
+# address:
+#   city: Kunming
+#   region: Yunnan Province
+#   country: China
 
 summary: Our research introduces an innovative approach that utilizes non-convex regression and partitioning algorithms to pinpoint faulty fibers within intricate network topologies, which finally achieves a nearly perfect accuracy level.
 
