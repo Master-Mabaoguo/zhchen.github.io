@@ -141,7 +141,7 @@ skills:
       - name: Weiqi
         description: ''
         percent: 80
-        icon: camera
+        icon: chess
 
 # languages:
 #   - name: English
