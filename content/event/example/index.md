@@ -43,7 +43,7 @@ image:
 #    url: https://twitter.com/georgecushen
 # url_code: 'https://github.com'
 # url_pdf: /upload/resume.pdf
-url_slides: /upload/resume.pdf
+url_slides: /workspaces/zhchen.github.io/static/uploads/Time Synchronization for Large-Scale Mobile Optical Fiber Networks.pdf
 # url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
