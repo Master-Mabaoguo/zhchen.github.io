@@ -141,7 +141,7 @@ skills:
       - name: Weiqi
         description: ''
         percent: 80
-        icon: chess
+        icon: fas fa-game-board
 
 # languages:
 #   - name: English
