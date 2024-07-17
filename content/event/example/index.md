@@ -1,17 +1,15 @@
 ---
-title: Example Talk
+title: Time Synchronization for Large-Scale Mobile Optical Fiber Networks
 
 event: National 2nd Conference on Statistics and Data Science
 event_url: https://jcsds2024.scimeeting.cn/en/web/index/19820
 
-location: Kunming, Yunnan
 address:
   city: Kunming
   region: Yunnan Province
   country: China
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Our research introduces an innovative approach that utilizes non-convex regression and partitioning algorithms to pinpoint faulty fibers within intricate network topologies, which finally achieves a nearly perfect accuracy level.
 
 date: '2024-07-12T13:00:00Z'
 date_end: '2024-07-12T15:00:00Z'
