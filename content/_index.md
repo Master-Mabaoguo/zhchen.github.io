@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: pexels-kasuma-1785493.jpg
           filters:
-            brightness: 1.0
+            brightness: 0.8
           size: cover
           position: center
           parallax: false
