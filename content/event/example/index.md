@@ -11,8 +11,7 @@ address:
 
 summary: Collaborative Project with Huawei (2023 Huawei Spark Award)
 
-abstract: >
-Our research introduces an innovative approach that utilizes non-convex regression and partitioning algorithms to pinpoint faulty fibers within intricate network topologies, which finally achieves a nearly perfect accuracy level.
+abstract: 'Our research introduces an innovative approach that utilizes non-convex regression and partitioning algorithms to pinpoint faulty fibers within intricate network topologies, which finally achieves a nearly perfect accuracy level.'
 
 date: '2024-07-12T13:00:00Z'
 date_end: '2024-07-12T15:00:00Z'
