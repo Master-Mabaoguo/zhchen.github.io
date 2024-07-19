@@ -1,13 +1,13 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Research Proposal
+date: 2024-02-20
+external_link: https://github.com/Zhanghao25/research_proposal
 tags:
-  - Hugo
+  - Academic
   - Wowchemy
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Research proposal project for my phd application
 
 <!--more-->
