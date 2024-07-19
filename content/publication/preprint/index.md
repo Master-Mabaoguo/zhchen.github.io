@@ -1,7 +1,13 @@
 ---
 title: "SurfDiff: Enhancing Protein-Ligand Predictions through Initial Pocket Identification and Surface-Aware Ligand Optimization. In nips 2024 "
 authors:
-- Huanlei Guo, Song Liu, admin, Jingzhou Jiang, Mingdi HU, Yilun Lou, Bingyi Jing
+- Huanlei Guo
+- Song Liu
+- admin
+- Jingzhou Jiang
+- Mingdi HU
+- Yilun Lou
+- Bingyi Jing
 date: "2024-05-20T00:00:00Z"
 doi: ""
 
