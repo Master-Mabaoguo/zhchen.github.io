@@ -143,13 +143,13 @@ skills:
         percent: 80
         icon: chess-board-solid
 
-# languages:
-#   - name: English
-#     # percent: 100
-#   - name: Chinese
-#     # percent: 75
-#   # - name: Portuguese
-#   #   percent: 25
+languages:
+  - name: English
+    percent: 80
+  - name: Chinese
+    percent: 100
+  # - name: Portuguese
+  #   percent: 25
 
 
 
