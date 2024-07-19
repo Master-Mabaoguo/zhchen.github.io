@@ -137,11 +137,11 @@ skills:
       - name: Swimming 
         description: ''
         percent: 80
-        # icon: swimmer
+        icon: swim
       - name: Weiqi
         description: ''
         percent: 80
-        # icon: chess
+        icon: chess-board-solid
 
 # languages:
 #   - name: English
