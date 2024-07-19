@@ -1,10 +1,9 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: kaggle competition
+date: 2022-09-01
+external_link: https://www.kaggle.com/code/zhanghaochen69/nut-2207-cnn-programming-95-3-accuracy
 tags:
-  - Hugo
-  - Wowchemy
+  - Competition
   - Markdown
 ---
 
