@@ -39,8 +39,8 @@ profiles:
   #   url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/Zhanghao25
-  # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/%E7%AB%A0%E6%B5%A9-%E9%99%88-a44a302a6/
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/
   # - icon: academicons/orcid
