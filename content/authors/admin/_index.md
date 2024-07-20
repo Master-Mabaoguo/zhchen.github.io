@@ -65,7 +65,7 @@ education:
   - area: M.S. in Statistics and Data Science
     institution: SUSTech
     date_start: 2022-09-01
-    # date_end: 2020-12-31
+    date_end: 2024-07-01
     # summary: |
     #   GPA: 3.8/4.0
 
@@ -76,7 +76,7 @@ education:
   - area: B.S. in Physics
     institution: SZU
     date_start: 2018-09-01
-    # date_end: 2020-12-31
+    date_end: 2022-07-01
     # summary: |
     #   GPA: 3.4/4.0
     
